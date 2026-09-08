@@ -17,7 +17,7 @@ Location: Philadelphia, PA.
            -------- 
 
 Introduction                         - 
-Protection                           II. 
-Love                                 IX. 
-Trials                               XVIII. 
-Loyalty                              XXXIV. 
+Table                                II. 
+Bank                                 IX. 
+Square                               XVIII. 
+Map                                  XXXIV. 
