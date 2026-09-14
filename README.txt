@@ -45,9 +45,9 @@ stories: that is the person's bounty.
 
 Introduction 
 Table 
-Bank 
-Square 
-Map 
+Mix 
+Stove 
+Bricks 
 
            Introduction 
            ------------ 
@@ -97,6 +97,62 @@ Spiritually
            * * * 
 
 
+
+
+
+
+
+
+           Tablelegs 
+
+From Ireland: 
+1. English is the most ingenious 
+   torture device ever invented. 
+2. Immature poets mimic. Mature 
+   poets steal. 
+3. Love loves to love Love. 
+4. When devilry knocks, knock back 
+   the same way. 
+
+           Tabletop 
+
+Poems 
+        Irish        English
+             A              A
+             A              B
+             B              A
+             B              B
+             A              C 
+                            C 
+Pattern:     Endrhyme       Endrhyme
+
+        Spanish         Japanese
+               Noun             Five
+               Adjective        Two
+               Verb             Five
+               Adverb
+Pattern:       Speech           Words
+
+        Dance         Targets
+             Eight           in
+             Eight           of
+             Eight           by
+Pattern:     Syllables       Use
+
+        Spells       Ode
+              Do        Respect
+              for       praise
+              Do        Respect
+              to        praise 
+
+Pattern:      Command   Worship
+
+        Song         Ballad 
+            Sixteen        A 
+            Sixteen        B 
+            Sixteen        C 
+                           B 
+Pattern:    Endrhymes      Endrhyme 
 
 
 
