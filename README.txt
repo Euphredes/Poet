@@ -4,6 +4,13 @@
            A CALLING 
 
 
+           EUPHREDES 
+           AN ALEXANDRIAN SERVANT 
+
+
+           A BOOK FOR THINKERS 
+
+
            Publishing 
 
 Licensing: Content in this text file 
@@ -11,35 +18,13 @@ Licensing: Content in this text file
            Commons Attribution 4.0 
            International license. 
 Author: Nick Morris. 
-Release: Saturday, September 12th 2026. 
-Location: Philadelphia, PA. 
+Age: 33 Years Old. 
+Release: Thursday, September 17th 2026. 
+Location: Cherry Hill, NJ. 
 
            ---- 
            Poet 
            ---- 
-
-           Claimer 
-
-A thought happens when .it. wants to, 
-not when I want it. The closest 
-experience I'm abused by daily, 
-thoughts, are a stranger. I do not 
-know the who of my thinking. This 
-strikes fear into my authenticity. 
-I'll use silence, chanting, or humming 
-to cope: to overload my mind until some 
-reaction within me, that is strong 
-enough, breaks thorugh my self-imposed 
-monotony. That reaction is a choice 
-for me to make or not. I feel like a 
-gambler with a stranger, who I've 
-been closest to, gambling over my 
-life and death. This monster is the 
-famous, owld .it. 
-
-When a person dies, all that one goes 
-to the grave with is just one's own 
-stories: that is the person's bounty. 
 
            Contents 
 
@@ -94,14 +79,18 @@ Physically
 Spiritually 
  Focus 
 
+           Virtues 
+
+1. All generosity begins with theft. 
+2. Good luck, after rejecting me. 
+3. Make information commonplace. 
+4. Count the issues. Disregard blame. 
+5. Leave the issues. They may change. 
+
            * * * 
 
-
-
-
-
-
-
+           Table 
+           ----- 
 
            Tablelegs 
 
@@ -154,28 +143,33 @@ Pattern:      Command   Worship
                            B 
 Pattern:    Endrhymes      Endrhyme 
 
+           Mix 
+           --- 
 
+           Steal 
 
+Now, I will take words from a poem, 
+St. Gabriel in The Gypsy Ballads, 
+by Lorca: 
 
+hot silver. 
+don't forget the gypsies gave 
+ that suit to you. 
+rich in moons and poorly dressed. 
+dark wonder of a woman. 
+your eyes gleam like the arid 
+ landscapes of horse and rider. 
+green-almond bullets. 
 
+From Yeats: 
 
+... 
 
-
-
-
-
-
-
-
-
-
-
-           Workshop 
-           -------- 
+           Stove 
+           ----- 
 
            Square 
 
-L. 
 A J B K C L  
  S   T   U 
 D M E N F O 
@@ -185,7 +179,6 @@ G P H Q  I
 
            Generator 
 
-LI. 
 1 A J S 
 2 B K T 
 3 C L U 
@@ -198,8 +191,7 @@ LI.
 
            Bank 
 
-LII. 
-Set your intension on some topic, 
+Set your intention on some topic, 
 say, "criminal." Now, map each letter 
 of the topic to numbers: one through 
 nine, using the Generator: 
@@ -277,19 +269,6 @@ under
 35459 -> 899 -> 89 -> 8 -> HQZ 
 hallucinations. 
 
-Now, I will pull words from a poem, 
-St. Gabriel in The Gypsy Ballads, 
-by Lorca: 
-
-hot silver. 
-don't forget the gypsies gave 
- that suit to you. 
-rich in moons and poorly dressed. 
-dark wonder of a woman. 
-your eyes gleam like the arid 
- landscapes of horse and rider. 
-green-almond bullets. 
-
 The final word bank is such: 
 
 criminal. 
@@ -308,67 +287,58 @@ dark wonder of a woman.
 your eyes gleam like the arid 
  landscapes of horse and rider. 
 green-almond bullets. 
+(YEATS) 
 
-The word bank will be used to write 
-four kinds of poems, structured by 
-the following table: 
+           Bricks 
+           ------ 
 
-Poems    
-        Irish        English        Spanish         Japanese
-             A              A              Noun             Five 
-             A              B              Adjective        Two 
-             B              A              Verb             Five 
-             B              B              Adverb 
-             A              C 
-                            C 
-Pattern:     Endrhyme       Endrhyme       Speech           Meter
+           Sets 
 
-Irish Structure: 
-hot silver in her hair. 
-this gypsy is here and there: 
-rich in moons; 
-a dark woman wonders my moods; 
-my eyes gleam away from a stare. 
+Survival 
+ part_1
+ part_2
+ . 
+ . 
+ . 
 
-English Structure: 
-four green-wood beads. 
-I was given this suit. 
-brave to lead. 
-criminal pursuits. 
-not your joker. 
-not your mover. 
+Travel 
+ part_A 
+ part_B 
+ . 
+ . 
+ . 
 
-Spanish Structure: 
-a wisp glowing under a swaying headway, 
-green-water energy from the albatross. 
-he fishes in the river for brook trout, 
-poorly dressed, without flying nor 
- trolling. 
+           Casting 
 
-Japanese Structure: 
-five to one, walking straightaways. 
-   all, nothing... 
-half-measures slower than mississippi. 
+part_1 
+ part_C 
+ part_F 
+ bank_1 
+ .
+ .
+ .
+part_2 
+ part_A 
+ part_C 
+ bank_7 
+ . 
+ . 
+ . 
+. 
+. 
+. 
 
+           Demold 
 
+poem_1 
 
+poem_2 
 
+poem_3 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+. 
+. 
+. 
 
            ***** 
             *** 
