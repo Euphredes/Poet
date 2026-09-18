@@ -37,57 +37,12 @@ Bricks
            Introduction 
            ------------ 
 
-           Review 
-
-What is it? 
-Who is it for? 
-Where has it been? 
-Where is it going? 
-How is it done in two parts? 
-
-           Storyline 
-
-Opponent 
- Maslow's Pyramid 
-Game 
- Heist 
-Monster 
- Penal Colony 
-Outward 
- Physical Adventure 
-Inward 
- Obstacle Course 
-
-           Approach 
-
-Problem 
- Slitherlink Knapsack 
-Sets 
- Destinations 
- Traps 
- Items 
- Storages 
-Solver 
- Greedy 
-
-           Responsibilities 
-
-Mentally 
- Silence 
-Physically 
- Momentum 
-Spiritually 
- Focus 
-
-           Virtues 
-
-1. All generosity begins with theft. 
-2. Good luck, after rejecting me. 
-3. Make information commonplace. 
-4. Count the issues. Disregard blame. 
-5. Leave the issues. They may change. 
-
-           * * * 
+Language is at the top of the supply 
+chain. Now, I pay dues to english by 
+keeping money and social obligations 
+to a minimum. When words I write are 
+left behind, that is a delivery for 
+the english language. 
 
            Table 
            ----- 
