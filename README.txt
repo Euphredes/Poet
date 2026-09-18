@@ -198,16 +198,74 @@ aforeshown manner, to then point to
 a set of letters, to then come up with 
 another word for the bank. 
 
-After you have created a word bank for 
-your liking, write a poem using those 
-words that are supported by the 
-Square. 
-
 I will continue the process of building 
 such a word bank: 
 
+gypsy = 77717 
+
+7 + 7 = 14 
+7 + 1 = 8 
+7 = 7
+
+1 + 4 = 5
+8 = 8
+7 = 7
+
+5 + 8 = 13 
+7 = 7
+
+1 + 3 = 4 
+7 = 7 
+
+7 + 4 = 11 
+1 + 1 = 2 
+
+gypsy = 2 
+
+2 = BKT 
+
+B -> brave 
+
+brave = 29145 
+
+2 + 9 = 11 
+1 + 4 = 5 
+5 = 5 
+
+1 + 1 = 2 
+5 = 5 
+5 = 5 
+
+2 + 5 = 7 
+5 = 5 
+
+7 + 5 = 12 
+
+1 + 2 = 3 
+
+3 = CLU 
+
+U -> undercover 
+
+undercover = 3545936459 
+
+3 + 
+
+
+
+
+
+
+six: 
+criminal 
 gypsy 
-7777 -> 49 -> 13 -> 4 -> DMV 
+brave 
+undercover 
+
+
+
+
+77717 -> 49 -> 13 -> 4 -> DMV 
 mover 
 46459 -> 199 -> 118 -> 1 -> AJS 
 joker 
@@ -220,16 +278,18 @@ under
 35459 -> 899 -> 89 -> 8 -> HQZ 
 hallucinations. 
 
+
+
+
 The final word bank is such: 
 
 criminal. 
-gypsy. 
-mover. 
-joker. 
-energy. 
-brave. 
-under. 
-hallucinations. 
+
+
+
+
+
+
 hot silver. 
 don't forget the gypsies gave 
  that suit to you. 
@@ -259,9 +319,7 @@ food spots.
 roadways: 
 criminal. 
 gypsy. 
-mover. 
-joker. 
-under. 
+
 hot silver. 
 rich in moons and poorly dressed. 
 your eyes gleam like the arid 
@@ -271,8 +329,7 @@ food spots.
 
 waterfronts: 
 gypsy. 
-mover. 
-energy. 
+
 don't forget the gypsies gave 
  that suit to you. 
 dark wonder of a woman. 
@@ -282,9 +339,7 @@ drop spots.
 
 business: 
 criminal. 
-mover. 
-energy. 
-brave. 
+
 drop spots. 
 food spots. 
 
