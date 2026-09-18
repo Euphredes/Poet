@@ -385,62 +385,24 @@ any of the Casts.
            Demold 
 
 English Roadways: 
-A
-A
-B
-A
-B
-C 
-C 
-
-roadways: 
-criminal. 
-gypsy. 
-hot silver. 
-rich in moons and poorly dressed. 
-your eyes gleam like the arid 
- landscapes of horse and rider. 
-drop spots. 
-food spots. 
-
-
-
-
-
+landscapes of hot silver. 
+citizens call cops 
+over the resting walker. 
+gypsies find where to drop. 
+such eyes, rich in moons. 
+such outfit, a common loon. 
 
 Irish Waterfronts: 
-A          
-A        
-B       
-B          
-A          
-
-waterfronts: 
-gypsy. 
-undercover. 
-don't forget the gypsies gave 
- that suit to you. 
-dark wonder of a woman. 
-green-almond bullets. 
-sleep spots. 
-drop spots. 
-
-
-
-
-
+gypsies love the water. 
+how it lies, undercover. 
+don't forget the sand 
+supports greenalmond eyes and 
+a herring's footrace to wander. 
 
 Japanese Business: 
-Five
-Two
-Five 
-
-business: 
-criminal. 
-brave. 
-energy. 
-drop spots. 
-food spots. 
+Remind America of Mr. Ford: 
+   Pearl Harbor. 
+Brave, criminal energy drops: food. 
 
            ***** 
             *** 
