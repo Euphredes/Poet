@@ -116,10 +116,6 @@ your eyes gleam like the arid
  landscapes of horse and rider. 
 green-almond bullets. 
 
-From Yeats: 
-
-... 
-
            Stove 
            ----- 
 
@@ -242,58 +238,86 @@ dark wonder of a woman.
 your eyes gleam like the arid 
  landscapes of horse and rider. 
 green-almond bullets. 
-(YEATS) 
 
            Bricks 
            ------ 
 
            Sets 
 
-Survival 
- part_1
- part_2
- . 
- . 
- . 
+travel: 
+roadways. 
+waterfronts. 
+business. 
 
-Travel 
- part_A 
- part_B 
- . 
- . 
- . 
+survival: 
+sleep spots. 
+drop spots. 
+food spots. 
 
            Casting 
 
-part_1 
- part_C 
- part_F 
- bank_1 
- .
- .
- .
-part_2 
- part_A 
- part_C 
- bank_7 
- . 
- . 
- . 
-. 
-. 
-. 
+roadways: 
+criminal. 
+gypsy. 
+mover. 
+joker. 
+under. 
+hot silver. 
+rich in moons and poorly dressed. 
+your eyes gleam like the arid 
+ landscapes of horse and rider. 
+drop spots. 
+food spots. 
+
+waterfronts: 
+gypsy. 
+mover. 
+energy. 
+don't forget the gypsies gave 
+ that suit to you. 
+dark wonder of a woman. 
+green-almond bullets. 
+sleep spots. 
+drop spots. 
+
+business: 
+criminal. 
+mover. 
+energy. 
+brave. 
+drop spots. 
+food spots. 
 
            Demold 
 
-poem_1 
+Irish Waterfronts: 
+A          
+A        
+B       
+B          
+A          
 
-poem_2 
 
-poem_3 
 
-. 
-. 
-. 
+
+English Roadways: 
+A
+A
+B
+A
+B
+C 
+C 
+
+
+
+Japanese Business: 
+Five
+Two
+Five
+
+
+
 
            ***** 
             *** 
