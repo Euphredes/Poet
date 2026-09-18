@@ -249,47 +249,77 @@ U -> undercover
 
 undercover = 3545936459 
 
-3 + 
+3 + 5 = 8 
+4 + 5 = 9 
+9 + 3 = 12 
+6 + 4 = 10 
+5 + 9 = 14 
 
+8 + 9 = 17 
+1 + 2 = 3 
+1 + 0 = 1 
+1 + 4 = 5 
 
+1 + 7 = 8 
+3 + 1 = 4 
+5 = 5 
 
+8 + 4 = 12 
+5 = 5 
 
+1 + 2 = 3 
+5 = 5 
 
+3 + 5 = 8 
 
-six: 
-criminal 
-gypsy 
-brave 
-undercover 
+8 = HQZ 
 
+H -> hallucinations 
 
+hallucinations = 81333395129651 
 
+8 + 1 = 9 
+3 + 3 = 6 
+3 + 3 = 6 
+9 + 5 = 14 
+1 + 2 = 3 
+9 + 6 = 15 
+5 + 1 = 6 
 
-77717 -> 49 -> 13 -> 4 -> DMV 
-mover 
-46459 -> 199 -> 118 -> 1 -> AJS 
-joker 
-16259 -> 779 -> 59 -> 5 -> ENW 
-energy 
-555977 -> 6914 -> 65 -> 2 -> BKT 
-brave 
-29145 -> 255 -> 3 -> CLU 
-under 
-35459 -> 899 -> 89 -> 8 -> HQZ 
-hallucinations. 
+9 + 6 = 15 
+6 = 6 
+1 + 4 = 5 
+3 = 3 
+1 + 5 = 6 
+6 = 6 
 
+1 + 5 = 6 
+6 + 5 = 11 
+3 + 6 = 9 
+6 = 6 
 
+6 = 6 
+1 + 1 = 2 
+9 + 6 = 15 
 
+6 + 2 = 8 
+1 + 5 = 6 
+
+8 + 6 = 14  
+
+1 + 4 = 5 
+
+5 = ENW 
+
+E -> energy 
 
 The final word bank is such: 
-
 criminal. 
-
-
-
-
-
-
+gypsy. 
+brave. 
+undercover. 
+hallucinations. 
+energy. 
 hot silver. 
 don't forget the gypsies gave 
  that suit to you. 
@@ -319,7 +349,6 @@ food spots.
 roadways: 
 criminal. 
 gypsy. 
-
 hot silver. 
 rich in moons and poorly dressed. 
 your eyes gleam like the arid 
@@ -329,7 +358,7 @@ food spots.
 
 waterfronts: 
 gypsy. 
-
+undercover. 
 don't forget the gypsies gave 
  that suit to you. 
 dark wonder of a woman. 
@@ -339,21 +368,19 @@ drop spots.
 
 business: 
 criminal. 
-
+brave. 
+energy. 
 drop spots. 
 food spots. 
 
+hallucinations: 
+I don't have any experience with 
+outward hallucinations. and 
+roadways, waterfronts, and 
+businesses are all outward 
+experiences to me. 
+
            Demold 
-
-Irish Waterfronts: 
-A          
-A        
-B       
-B          
-A          
-
-
-
 
 English Roadways: 
 A
@@ -365,14 +392,17 @@ C
 C 
 
 
+Irish Waterfronts: 
+A          
+A        
+B       
+B          
+A          
 
 Japanese Business: 
 Five
 Two
 Five
-
-
-
 
            ***** 
             *** 
