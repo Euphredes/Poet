@@ -375,10 +375,12 @@ food spots.
 
 hallucinations: 
 I don't have any experience with 
-outward hallucinations. and 
+outward hallucinations. And 
 roadways, waterfronts, and 
 businesses are all outward 
-experiences to me. 
+experiences to me. The word, 
+hallucinations, doesn't fit into 
+any of the Casts. 
 
            Demold 
 
@@ -391,6 +393,20 @@ B
 C 
 C 
 
+roadways: 
+criminal. 
+gypsy. 
+hot silver. 
+rich in moons and poorly dressed. 
+your eyes gleam like the arid 
+ landscapes of horse and rider. 
+drop spots. 
+food spots. 
+
+
+
+
+
 
 Irish Waterfronts: 
 A          
@@ -399,10 +415,32 @@ B
 B          
 A          
 
+waterfronts: 
+gypsy. 
+undercover. 
+don't forget the gypsies gave 
+ that suit to you. 
+dark wonder of a woman. 
+green-almond bullets. 
+sleep spots. 
+drop spots. 
+
+
+
+
+
+
 Japanese Business: 
 Five
 Two
-Five
+Five 
+
+business: 
+criminal. 
+brave. 
+energy. 
+drop spots. 
+food spots. 
 
            ***** 
             *** 
